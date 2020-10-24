@@ -1,2 +1,2 @@
-# MInt-MiniProject
+# MInt
 MINT: Multi-precision Integer 
